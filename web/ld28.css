@@ -1,0 +1,23 @@
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+}
+
+a {
+  color: #8888ff;
+}
+
+#game_holder {
+  width: 854px;
+  height: 480px;
+  position: absolute;
+  left: 50%;
+  top: 33%;
+  margin-left:-427px;
+  margin-top:-155px;
+}
